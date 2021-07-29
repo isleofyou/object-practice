@@ -10,3 +10,10 @@ var animal = {
   breed: "Shih Tzu",
   age: 3,
 }
+
+var customer = {
+  name: "Shawn",
+  age: 28,
+  rank: "Gold 3"
+
+}
